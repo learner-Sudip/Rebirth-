@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mentis</string>
+    <string name="accessibility_service_description">Mentis Sovereign Shield monitors foreground application launches to provide mindful friction and block doom-scrolling loops. Zero data leaves your device.</string>
+</resources>

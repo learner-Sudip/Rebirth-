@@ -1,0 +1,6 @@
+{
+  "name": "Mentis",
+  "description": "Your attention is sovereign. Production-grade, local-first mobile study-focus app with cognitive flow engine, spaced repetition, ambient audio, and app shields.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

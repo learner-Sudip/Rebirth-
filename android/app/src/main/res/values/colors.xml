@@ -1,0 +1,8 @@
+<resources>
+    <color name="bg_dark">#07070A</color>
+    <color name="card_surface">#13131C</color>
+    <color name="accent_amber">#FFA726</color>
+    <color name="accent_emerald">#00E676</color>
+    <color name="accent_crimson">#FF3366</color>
+    <color name="text_primary">#FFFFFF</color>
+</resources>
